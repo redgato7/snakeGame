@@ -1,0 +1,74 @@
+body {
+  font-family: Helvetica;
+  background-color: white;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.door-frame {
+    cursor: pointer;
+    padding: 10px;
+}
+
+.header {
+    margin-top: 30px;
+    background-color: white;
+    text-align: center;
+}
+
+.title-row {
+    margin-top: 42px;
+    margin-bottom: 21px;
+    text-align: center;
+}
+
+.instructions-title {
+    display: inline;
+    font-size: 18px;
+    color: #427219;
+}
+
+.showing-score {
+    font-size: 18px;
+    color: #427219;
+}
+
+.instructions-row {
+    margin: 0 auto;
+    width: 400px;
+}
+
+.instructions-number {
+    padding-right: 25px;
+    font-size: 36px;
+    color: #95f442;
+}
+
+.instructions-text {
+    padding: 10px;
+    font-size: 16px;
+    color: #427219;
+}
+
+.door-row {
+    text-align: center;
+}
+
+.start-row {
+    margin: auto;
+    width: 200px;
+    height: 50px;
+    font-family: 'Work Sans';
+    background-color: #eb6536;
+    padding-top: 18px;
+    font-size: 18px;
+    text-align: center;
+    color: #010165;
+    margin-bottom: 21px;
+    cursor: pointer;
+}
+
+#headerSnake {
+  width: 90px;
+  height: 90px;
+}
